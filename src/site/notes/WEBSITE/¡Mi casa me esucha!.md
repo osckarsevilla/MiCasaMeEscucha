@@ -41,4 +41,14 @@ esto es el footer
 
 ## Presentación
 
-Bienvenido a Mi cas me escucha un podcast sobre Home Assistant y todo el cacharreo que te gusta
+Bienvenido a Mi casa me escucha un podcast sobre Home Assistant y todo el cacharreo que te gusta
+
+
+# Aqui te dejo los enlaces del podcast
+
+
+``` dataview
+LIST
+FROM #podcast 
+
+```
