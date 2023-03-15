@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcast/temporada-1/t1-cap-1-instalacion-de-home-assistant/","title":{"{ title }":null},"tags":["podcast","homeassistant","domotica",1]}
+{"dg-publish":true,"permalink":"/podcast/temporada-1/t1-cap-1-instalacion-de-home-assistant/","title":{"{ title }":null},"tags":["podcast","homeassistant","domotica",1],"noteIcon":""}
 ---
 
 
