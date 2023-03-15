@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/podcast/temporada-1/t1-cap-0-presentacion/","title":{"{ title }":null},"tags":["podcast","homeassistant","domotica",0]}
+{"dg-publish":true,"permalink":"/podcast/temporada-1/t1-cap-0-presentacion/","title":{"{ title }":null},"tags":["podcast","homeassistant","domotica",0],"noteIcon":""}
 ---
 
 
