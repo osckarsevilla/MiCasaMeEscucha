@@ -36,7 +36,7 @@ Bienvenido a Mi casa me escucha un podcast sobre Home Assistant y todo el cachar
 
 # Aqui te dejo los enlaces del podcast
 
-[[WEBSITE/Podcast/Temporada 1/T1_CAP1 Instalación de Home Assistant\|Mi Casa me Escucha Podcast]]
+[[Podcast/Temporada 1/T1_CAP1 Instalación de Home Assistant\|Mi Casa me Escucha Podcast]]
 
 
 
