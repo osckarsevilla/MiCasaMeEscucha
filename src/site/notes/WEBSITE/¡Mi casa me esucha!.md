@@ -46,9 +46,4 @@ Bienvenido a Mi casa me escucha un podcast sobre Home Assistant y todo el cachar
 
 # Aqui te dejo los enlaces del podcast
 
-[[Listado de capítulos Podcast\|Listado de capítulos Podcast]]
-``` dataview
-LIST
-FROM "Podcast/Temporada 1"
-
-```
+[[Listado de capítulos Podcast\|Mi Casa me Escucha Podcast]]
