@@ -15,24 +15,16 @@ Esto es el header
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Presentación
 
 Bienvenido a Mi casa me escucha un podcast sobre Home Assistant y todo el cacharreo que te gusta
 
+
+
+
+
+
+* [[WEBSITE/RECURSOS/Listado de capítulos Podcast\| Temporada 1]]
 
 # Aqui te dejo los enlaces del podcast
 
