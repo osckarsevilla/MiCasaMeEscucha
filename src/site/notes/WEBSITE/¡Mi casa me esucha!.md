@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/mi-casa-me-esucha/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/website/mi-casa-me-esucha/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -49,6 +49,6 @@ Bienvenido a Mi casa me escucha un podcast sobre Home Assistant y todo el cachar
 
 ``` dataview
 LIST
-FROM #podcast 
+FROM "Podcast/Temporada 1"
 
 ```
